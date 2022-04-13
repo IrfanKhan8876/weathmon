@@ -1,7 +1,7 @@
 html,
 body {
   height: 100%;
-  background-image: url("/images/background.png");
+  background: linear-gradient(to right, #0f2027, #203a43, #2c5364);
   background-position: center;
   background-size: cover;
 }
